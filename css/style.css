@@ -355,7 +355,7 @@ button {
     width: 100%;
     float: left;
     font-size: 18px;
-    background-color: #d48272;
+    background-color: #c46855ad;
     color: #fefefd;
     text-align: center;
     padding: 12px;
@@ -376,7 +376,7 @@ button {
     width: 100%;
     float: left;
     font-size: 18px;
-    background-color: #d48272;
+    background-color: #fab3a5;
     color: #fefefd;
     text-align: center;
     padding: 12px;
@@ -391,7 +391,7 @@ button {
 
 .callnow_bt.active a {
     color: #fefefd;
-    background-color: #4a4949;
+    background-color: #a55a5a;
 }
 
 #banner_slider a.carousel-control-prev {
