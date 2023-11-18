@@ -466,8 +466,8 @@ button {
 }
 
 .coffee_img img {
-    max-width: 80%;
-    max-height: 80%;
+    max-width: 100%;
+    max-height: 75%;
     float: left;
 }
 
