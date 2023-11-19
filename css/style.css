@@ -107,6 +107,7 @@ h6 a {
 
 button:focus {
     outline: none;
+    border: none;
 }
 
 ul,
@@ -193,6 +194,7 @@ button {
     margin: 0;
     padding: 0;
     cursor: pointer;
+    border: none;
 }
 
 .full {
@@ -275,7 +277,7 @@ button {
 }
 
 .user_icon {
-    padding-right: 15px;
+    padding-right: 17px;
 }
 
 .login_bt {
@@ -308,7 +310,7 @@ button {
 .banner_section {
     width: 100%;
     float: left;
-    padding: 90px 0px 100px 0px;
+    padding: 89px 0px 100px 0px;
 }
 
 .banner_taital_main {
@@ -412,7 +414,7 @@ button {
     width: 55px;
     height: 55px;
     opacity: 1;
-    font-size: 16px;
+    font-size: 17px;
     color: #4a4949;
     background-color: #efefef;
 }
